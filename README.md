@@ -12,7 +12,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 
 ### Categorias
 
-[ ] `POST /categories`
+- [ ] `POST /categories`
 
 ```json
 {
@@ -20,7 +20,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 }
 ```
 
-[ ] `GET /categories`
+- [ ] `GET /categories`
 
 ```json
 [
@@ -46,7 +46,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 
 ### Produtos
 
-[ ] `POST /products`
+- [ ] `POST /products`
 
 ```json
 {
@@ -60,7 +60,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 }
 ```
 
-[ ] `GET /products`
+- [ ] `GET /products`
 
 ```json
 [
@@ -92,7 +92,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 ]
 ```
 
-[ ] `PUT /product/{productId}`
+- [ ] `PUT /product/{productId}`
 
 ```json
 {
@@ -106,13 +106,13 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 }
 ```
 
-[ ] `DELETE /products/{productId}`
+- [ ] `DELETE /products/{productId}`
 
 ---
 
 ### Estoque
 
-[ ] `POST /stocks/movements`
+- [ ] `POST /stocks/movements`
 
 ```json
 {
@@ -124,7 +124,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 }
 ```
 
-[ ] `GET /stocks/movements`
+- [ ] `GET /stocks/movements`
 
 ```json
 [
@@ -163,7 +163,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 ]
 ```
 
-[ ] `GET /stocks`
+- [ ] `GET /stocks`
 
 ```json
 {
