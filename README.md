@@ -52,6 +52,7 @@ O desafio consiste em implementar uma API RESTful para gerenciar categorias, pro
 {
   "name": "Notebook",
   "price": 3000.0,
+  "quantity": 1000,
   "categories": [
     "01J9WNJMVVQBKFDK90ZCQMP7J2",
     "01J9WNJMVW22KTWR98WTEJY48G",
@@ -213,7 +214,7 @@ Essa é a nossa stack atual e temos bastante trabalho pela frente utilizando ess
 
 - Inclua no README as instruções para executar o projeto
 - Utilize Swagger para documentar a API
-- Sinta-se livre para incluir quaisquer bibliotecas e funcionalidade extras que você achar necessário, mas lembre-se de justificar o uso de cada uma no seu README
+- Sinta-se livre para incluir quaisquer bibliotecas e funcionalidades extras que você achar necessário, mas lembre-se de justificar o uso de cada uma no seu README
 - A aplicação deve executar em ambiente conteneirizado
 
 ## ✔️ Critérios de Avaliação
